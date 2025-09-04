@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+npm-debug.log*
+
+# Hardhat build artifacts
+artifacts/
+cache/
+typechain/
+coverage/
+
+# Env & config files
+.env
